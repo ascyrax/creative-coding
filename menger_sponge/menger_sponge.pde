@@ -6,7 +6,7 @@ void setup() {
   //fullScreen();
 }
 
-float bsize= 200;// box size
+float bsize= 500;// box size
 
 void draw() {
   background(52);
