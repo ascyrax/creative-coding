@@ -1,5 +1,5 @@
 void setup(){
- size(800,800);
+ size(1000,1000);
  frameRate(60);
  //fullScreen();
  cellWidth = width / nRows;
@@ -19,7 +19,7 @@ void draw(){
 // ascyrax
 
 
-int nRows=10,nCols=10;
+int nRows=50,nCols=50;
 int cellWidth, cellHeight;
 Cell current;
 
